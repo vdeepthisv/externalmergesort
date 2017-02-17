@@ -1,10 +1,8 @@
 
 /*
-Database2 Project : Implementation of external sort merge algorithm
+Implementation of external sort merge algorithm
 File: External merge sort algoithm
 Name: Vijaya Deepthi Srivoleti
-ID : 01542738
-email : VijayaDeepthi_Srivoleti@student.uml.edu
 */
 
 //header files
